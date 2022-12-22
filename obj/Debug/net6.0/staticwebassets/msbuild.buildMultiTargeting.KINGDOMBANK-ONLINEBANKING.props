@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KINGDOMBANK-ONLINEBANKING.props" />
+</Project>
